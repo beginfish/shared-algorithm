@@ -1,7 +1,6 @@
-# shared-algorithm
+@[TOC](shared-algorithm)
 Algorithm learning and finishing
 
-[toc]
 ## 对于10亿个数据如何从中取出排名前30的热点数据 
 - 问题分类
 TOP K 类问题
